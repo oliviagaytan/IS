@@ -1,0 +1,27 @@
+h1{
+    height: 100px;
+    background-color:gray;
+    line-height: 100px;
+    width:auto;
+}
+
+.footer{
+    height:50px;
+    background-color:gray;
+}
+
+div{
+    display:grid;
+    margin-left: auto;
+    margin-right:auto;
+    width: 100%;
+}
+body{
+    background-color:#ddeffa;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
